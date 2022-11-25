@@ -32,17 +32,17 @@ http://sg.cvacetv.ga/SkyNews
 
 #----------------Germany-----------------
 #EXTINF:-1 group-title="🇩🇪 | Німеччина" tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
-https://s6.hopslan.com/ardc1/tracks-v1a1/mono.m3u8
+http://vn2.cvacetv.ga/1de/mpegts
 #EXTINF:-1 group-title="🇩🇪 | Німеччина" tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
-https://s6.hopslan.com/zdfg11/tracks-v1a1/mono.m3u8
+http://vn2.cvacetv.ga/ZDF/mpegts
 #EXTINF:-1 group-title="🇩🇪 | Німеччина" tvg-id="RTLGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png",RTL
-https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
+http://sg.cvacetv.ga/RTL
 #EXTINF:-1 group-title="🇩🇪 | Німеччина" tvg-id="RTLZwei.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/800px-RTLZWEI_Logo_2019.svg.png",RTLII
-https://s6.hopslan.com/rtl2q1/tracks-v1a1/mono.m3u8
+http://sg.cvacetv.ga/RTLII
 #EXTINF:-1 group-title="🇩🇪 | Німеччина" tvg-id="ProSieben.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png",ProSieben
-https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
+http://sg.cvacetv.ga/ProSieben
 #EXTINF:-1 group-title="🇩🇪 | Німеччина" tvg-id="ProSiebenMaxxGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1280px-ProSieben_MAXX_Logo.svg.png",Pro7 MAXX
-https://s6.hopslan.com/pro7maxxv/tracks-v1a1/mono.m3u8
+http://sg.cvacetv.ga/Pro7
 #EXTINF:-1 group-title="🇩🇪 | Німеччина" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png",SAT.1
 https://s6.hopslan.com/sat1q1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇩🇪 | Німеччина" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sat.1_Gold_HD_Logo_2019.svg/1200px-Sat.1_Gold_HD_Logo_2019.svg.png",SAT.1 Gold
@@ -52,7 +52,7 @@ http://sg.cvacetv.ga/Tag24
 
 #----------------France-----------------
 #EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png",TF1
-http://vn2.cvacetv.ga/TF1
+http://vn2.cvacetv.ga/TF1/mpegts
 #EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1024px-France_2_2018.svg.png",France 2
 http://sg.cvacetv.ga/France2
 #EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png",France 3
@@ -84,7 +84,7 @@ http://eu.cvacetv.ga/RaiNews24
 
 #----------------Turkey-----------------
 #EXTINF:-1 group-title="🇹🇷 | Туреччина" tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/640px-TRT_1_logo_%282021-%29.svg.png",TRT1
-http://tv-trt1.medya.trt.com.tr/master_720.m3u8
+http://sg.cvacetv.ga/TRT1
 #EXTINF:-1 group-title="🇹🇷 | Туреччина" tvg-id="TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png",TRT2
 http://sg.cvacetv.ga/TRT2
 #EXTINF:-1 group-title="🇹🇷 | Туреччина" tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/1200px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber
@@ -119,7 +119,7 @@ http://sg.cvacetv.ga/SIC
 
 #----------------Poland-----------------
 #EXTINF:-1 group-title="🇵🇱 | Польща" tvg-id="TVP1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png",TVP 1
-http://vn2.cvacetv.ga/TVP1
+http://sg.cvacetv.ga/TVP1
 #EXTINF:-1 group-title="🇵🇱 | Польща" tvg-id="TVP2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png",TVP 2
 http://sg.cvacetv.ga/TVP2
 #EXTINF:-1 group-title="🇵🇱 | Польща" tvg-id="TVP3Warszawa.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png",TVP 3
@@ -159,13 +159,13 @@ http://vn1.cvacetv.ga:8080/stream/channelid/1499777929
 
 #----------------Korea-----------------
 #EXTINF:-1 group-title="🇰🇷 | Південна Корея" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://vn2.cvacetv.ga/SBS
+http://vn2.cvacetv.ga/SBS/mpegts
 #EXTINF:-1 group-title="🇰🇷 | Південна Корея" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1
-http://vn2.cvacetv.ga/KBS1
+http://vn2.cvacetv.ga/KBS1/mpegts
 #EXTINF:-1 group-title="🇰🇷 | Південна Корея" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
-http://vn2.cvacetv.ga/KBS2
+http://vn2.cvacetv.ga/KBS2/mpegts
 #EXTINF:-1 group-title="🇰🇷 | Південна Корея" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
-http://vn2.cvacetv.ga/MBC
+http://vn2.cvacetv.ga/MBC/mpegts
 #EXTINF:-1 group-title="🇰🇷 | Південна Корея" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png",EBS1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷 | Південна Корея" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/2560px-EBS_2_logo.svg.png",EBS2
@@ -208,7 +208,7 @@ http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 
 #----------------Netherlands-----------------
 #EXTINF:-1 group-title="🇳🇱 | Нідерланди" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",NPO1
-http://vn2.cvacetv.ga/NPO1
+http://vn2.cvacetv.ga/NPO1/mpegts
 #EXTINF:-1 group-title="🇳🇱 | Нідерланди" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png",NPO2
 http://eu.cvacetv.ga/NPO2
 #EXTINF:-1 group-title="🇳🇱 | Нідерланди" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/1200px-NPO_3_logo_2014.svg.png",NPO3
