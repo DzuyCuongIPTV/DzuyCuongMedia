@@ -2,11 +2,11 @@
 #----КАНАЛІ З ПОЗНАЧЕННЯМ DRM ПЕРЕГЛЯДАТИ ЛИШЕ НА TIVIMATE, OTT NAVIGATOR----#
 #----------------UK-----------------
 #EXTINF:-1 group-title="🇬🇧 | Сполучене Королівство" tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
-http://vn2.cvacetv.ga/BBC1
+http://vn2.cvacetv.ga/bbc1/mpegts
 #EXTINF:-1 group-title="🇬🇧 | Сполучене Королівство" tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
-http://vn2.cvacetv.ga/BBC2
+http://vn2.cvacetv.ga/bbc2/mpegts
 #EXTINF:-1 group-title="🇬🇧 | Сполучене Королівство" tvg-id="ITV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
-http://vn2.cvacetv.ga/ITV
+http://vn2.cvacetv.ga/itv/mpegts
 #EXTINF:-1 group-title="🇬🇧 | Сполучене Королівство" tvg-id="Channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
 http://sg.cvacetv.ga/channel4
 #EXTINF:-1 group-title="🇬🇧 | Сполучене Королівство" tvg-id="Channel5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Channel_5_Logo_2016_SVG.svg/1200px-Channel_5_Logo_2016_SVG.svg.png",Channel 5
@@ -72,9 +72,9 @@ http://sg.cvacetv.ga/CNews
 
 #----------------Italy-----------------
 #EXTINF:-1 group-title="🇮🇹 | Італія" tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1
-http://vn2.cvacetv.ga/Rai1
+http://vn2.cvacetv.ga/Rai1/mpegts
 #EXTINF:-1 group-title="🇮🇹 | Італія" tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",Rai 2
-http://vn2.cvacetv.ga/Rai2
+http://vn2.cvacetv.ga/Rai2/mpegts
 #EXTINF:-1 group-title="🇮🇹 | Італія" tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",Rai 3
 http://sg.cvacetv.ga/Rai3
 #EXTINF:-1 group-title="🇮🇹 | Італія" tvg-id="RaiNews24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1024px-Rai_News_24_logo_%282022%29.svg.png",Rai News 24
@@ -84,7 +84,7 @@ http://eu.cvacetv.ga/RaiNews24
 
 #----------------Turkey-----------------
 #EXTINF:-1 group-title="🇹🇷 | Туреччина" tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/640px-TRT_1_logo_%282021-%29.svg.png",TRT1
-http://vn2.cvacetv.ga/TRT1
+http://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="🇹🇷 | Туреччина" tvg-id="TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png",TRT2
 http://sg.cvacetv.ga/TRT2
 #EXTINF:-1 group-title="🇹🇷 | Туреччина" tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/1200px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber
@@ -101,7 +101,7 @@ http://194.163.179.246/slovenci/njemacki/orfde2.m3u8
 
 #----------------Portugal-----------------
 #EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-id="RTP1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png",RTP 1
-http://vn2.cvacetv.ga/RTP1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
 #EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-id="RTP2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Rtp2_2016_logo.png",RTP 2
 http://sg.cvacetv.ga/RTP2
 #EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-id="RTP3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png",RTP 3
@@ -173,7 +173,20 @@ http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷 | Південна Корея" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png",TV Chosun
 #EXTVLCOPT:http-user-agent=broadcast.tvchosun/19.2.1 (Linux;Android 8.1.0) ExoPlayerLib/2.11.8
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-task
+
+#----------------USA-----------------
+#EXTINF:-1 group-title="🇺🇸 | США" tvg-id="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
+http://0.tcp.ngrok.io:19970/NBC
+#EXTINF:-1 group-title="🇺🇸 | США" tvg-id="CBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
+http://0.tcp.ngrok.io:19970/CBS
+#EXTINF:-1 group-title="🇺🇸 | США" tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
+http://0.tcp.ngrok.io:19970/ABC
+#EXTINF:-1 group-title="🇺🇸 | США" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
+http://vn1.cvacetv.ga/FOX
+#EXTINF:-1 group-title="🇺🇸 | США" tvg-id="UniMasEast.us" tvg-logo="https://st1.uvnimg.com/dims4/default/c7fd409/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2F9a%2F2ef55e7f4057beb6024842c8fdef%2Funiversal.jpg",Unimas
+
+#EXTINF:-1 group-title="🇺🇸 | США" tvg-id="UnivisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
+
 
 #----------------Russia/Belarus-----------------
 #EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1
