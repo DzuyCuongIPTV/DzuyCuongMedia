@@ -197,12 +197,8 @@ https://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/21
 http://sg.cvacetv.ga/NTV
 #EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/160px-Domashniy_tv_logo.svg.png",Domashniy
 http://antenn.az:8081/russia/domashniy_sd_new/chunks.m3u8
-#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/400px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png",Pyatnitsa!
-https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺 🇧🇾 | Росія - Білорусь" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/512px-Belarus_1_logo.svg.png",Belarus 1
 http://86.57.178.105:8421/bel1
-#EXTINF:-1 group-title="🇷🇺 🇧🇾 | Росія - Білорусь" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Belarus_24_logo.svg/512px-Belarus_24_logo.svg.png",Belarus 24
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 
 #----------------Netherlands-----------------
 #EXTINF:-1 group-title="🇳🇱 | Нідерланди" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",NPO1
