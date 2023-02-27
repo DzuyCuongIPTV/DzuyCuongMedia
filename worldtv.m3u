@@ -56,24 +56,6 @@ http://0.vylc.name.vn/TRT_Turk
 #EXTINF:-1 group-title="🇹🇷 | Туреччина" tvg-id="TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png",TRT2
 http://0.vylc.name.vn/TRTSpor
 
-#----------------Portugal-----------------
-#EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-id="RTP1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png",RTP 1
-http://0.vylc.name.vn/RTP1
-#EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-id="RTP2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Rtp2_2016_logo.png",RTP 2
-http://0.vylc.name.vn/RTP2
-#EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-id="RTP3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png",RTP 3
-http://0.vylc.name.vn/RTP3
-#EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-id="AMCPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
-http://0.vylc.name.vn/AMC
-#EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-id="SIC.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png",SIC
-http://0.vylc.name.vn/SIC
-#EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png",SIC Noticias
-
-#EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",SIC Mulher
-
-#EXTINF:-1 group-title="🇵🇹 | Португалія" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png",TVI
-http://0.vylc.name.vn/TVI
-
 #----------------Poland-----------------
 #EXTINF:-1 group-title="🇵🇱 | Польща" tvg-id="TVP1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png",TVP 1
 http://0.vylc.name.vn/TVP1
@@ -160,7 +142,7 @@ http://91.146.94.234:10001/play/a04d
 #EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/512px-Suspilne_Kultura_%282022%29.svg.png",UA:Kultura
 http://91.146.94.234:10001/play/a04d
 #EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png",Rada
-http://91.146.94.234:10001/play/a04d
+http://iptv.prosto.tv:7000/ch21/video.m3u8
 #EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/512px-Inter_TV-Channel_logo.svg.png",Inter
 http://91.146.94.234:10001/play/a04m
 #EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/512px-NTNUA_logo_%282013%29.svg.png",NTN
