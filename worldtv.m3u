@@ -154,6 +154,36 @@ http://0.vylc.name.vn/Zhejiang
 #EXTINF:-1 group-title="🇨🇳 | Китай" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports
 http://0.vylc.name.vn/WXTY
 
+#----------------Ukraine-----------------
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pershyi_%282022%29.svg/512px-Pershyi_%282022%29.svg.png",UA:Pershiy
+http://91.146.94.234:10001/play/a04d
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/512px-Suspilne_Kultura_%282022%29.svg.png",UA:Kultura
+http://91.146.94.234:10001/play/a04d
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png",Rada
+http://91.146.94.234:10001/play/a04d
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/512px-Inter_TV-Channel_logo.svg.png",Inter
+http://91.146.94.234:10001/play/a04m
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/512px-NTNUA_logo_%282013%29.svg.png",NTN
+http://91.146.94.234:10001/play/a04t
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Mega_ua.jpg?20100605210020",Mega
+http://91.146.94.234:10001/play/a04u
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/800px-1%2B1_logo.svg.png",1+1
+http://91.146.94.234:10001/play/a04i
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/90px-2%2B2_logo_2017.svg.png",2+2
+http://91.146.94.234:10001/play/a04i
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TETUA_logo%282022%29.svg/512px-TETUA_logo%282022%29.svg.png",TET
+http://91.146.94.234:10001/play/a04p
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PLUSPLUS_logo.svg/200px-PLUSPLUS_logo.svg.png",PlusPlus
+http://91.146.94.234:10001/play/a04v
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/STB_logo.svg/52px-STB_logo.svg.png",STB
+http://91.146.94.234:10001/play/a04l
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ICTV_2017_horizontal.svg/512px-ICTV_2017_horizontal.svg.png",ICTV
+http://91.146.94.234:10001/play/a04k
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Novyi_kanal_logo.svg/128px-Novyi_kanal_logo.svg.png",Novyj kanal
+http://91.146.94.234:10001/play/a04o
+#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/XSport_%282020%29.svg/512px-XSport_%282020%29.svg.png",XSport
+http://91.146.94.234:10001/play/a04p
+
 #----------------Netherlands-----------------
 #EXTINF:-1 group-title="🇳🇱 | Нідерланди" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",NPO1
 http://0.vylc.name.vn/NPO1
