@@ -38,6 +38,24 @@ http://0.vylc.name.vn/ZDF
 #EXTINF:-1 group-title="🇩🇪 | Німеччина" tvg-id="RTLGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png",RTL
 http://0.vylc.name.vn/RTL
 
+#----------------France-----------------
+#EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png",TF1
+https://s12.tntendirect.com/tf1/live/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1024px-France_2_2018.svg.png",France 2
+https://s12.tntendirect.com/france2/live/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png",France 3
+https://s14.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png",France 5
+https://s12.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
+https://s12.tntendirect.com/m6/live/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="C8.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/1200px-Logo_C8.svg.png",C8
+https://s13.tntendirect.com/d8/live/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1200px-W9_2018.svg.png",W9
+https://s13.tntendirect.com/w9/live/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷 | Франція" tvg-id="CNews.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1920px-Canal_News_logo.svg.png",C News
+
+
 #----------------Italy-----------------
 #EXTINF:-1 group-title="🇮🇹 | Італія" tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1
 http://0.vylc.name.vn/Rai1
@@ -135,6 +153,76 @@ http://0.vylc.name.vn/Hunan
 http://0.vylc.name.vn/Zhejiang
 #EXTINF:-1 group-title="🇨🇳 | Китай" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports
 http://0.vylc.name.vn/WXTY
+
+#----------------Russia-----------------
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/16/79/-channel!gs5.png",OPT1
+http://185.23.80.28:8080/Pervyj/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/63/-channel!41i.png",Russia 1
+http://185.23.80.28:8080/Rossiya1/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
+http://185.23.80.28:8080/MATCH!/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/51/-channel!px5.png",NTV
+http://185.23.80.28:8080/NTV/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/16/81/-channel!mjk.png",5TV Petersburg
+http://185.23.80.28:8080/Pyatyj/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/00/00/50/-channel!13n.png",Russia K
+http://185.23.80.28:8080/RossiyaK/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/61/-channel!z0z.png",Russia 24
+http://185.23.80.28:8080/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/11/88/80/-channel!o1z.png",Karusel
+http://185.23.80.28:8080/Karusel/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/68/79/13/-channel!y5z.png",OTR
+http://185.23.80.28:8080/OTR/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/83/-channel!z06.png",TV Center
+http://185.23.80.28:8080/TVCentr/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/10/86/16/-channel!6x9.png",Ren TV
+http://185.23.80.28:8080/REN/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/72/-channel!1ld.png",Spas
+http://185.23.80.28:8080/Spas/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/02/30/77/-channel!spx.png",STS
+http://185.23.80.28:8080/STS/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/02/30/78/-channel!fas.png",Domashniy
+http://185.23.80.28:8080/Domashnij/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/81/-channel!ues.png",TV3
+http://185.23.80.28:8080/TV3/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/54/-channel!xeb.png",Friday!
+http://185.23.80.28:8080/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/00/05/52/-channel!1k2.PNG",Zvezda
+http://185.23.80.28:8080/Zvezda/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/00/00/91/-channel!vh1.png",Mir (Russia)
+http://185.23.80.28:8080/MIR/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/70/46/04/-channel!dy9.png",TNT
+http://185.23.80.28:8080/TNT/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/36/01/17/-channel!oj7.png",Muz TV
+http://185.23.80.28:8080/MUZTV/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",Маtch Futbol 2
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Futbol 3
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Premier
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+
+#----------------Belarus-----------------
+#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/belarus_1.png",Belarus 1
+http://194.158.222.36:6101
+#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/belarus_2.png",Belarus 2
+http://194.158.222.36:6107
+#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/belarus_3.png",Belarus 3
+http://194.158.222.36:6108
+#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/belarus_5.png",Belarus 5
+http://194.158.222.36:6109
+#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/ont.png",ONT
+http://194.158.222.36:6102
+#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/ctv.png",STV
+http://194.158.222.36:6103
+#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/ntv_belarus.png",NTV Belaurs
+http://194.158.222.36:6106
+#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/rtr_belarus.png",RTR Belarus
+http://194.158.222.36:6105
+#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/mir.png",Mir Belarus
+http://194.158.222.36:6104
 
 #----------------Ukraine-----------------
 #EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pershyi_%282022%29.svg/512px-Pershyi_%282022%29.svg.png",UA:Pershiy
