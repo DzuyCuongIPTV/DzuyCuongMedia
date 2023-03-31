@@ -5,6 +5,8 @@
 http://0.vylc.name.vn/BBC1
 #EXTINF:-1 group-title="🇬🇧 | Сполучене Королівство" tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
 http://0.vylc.name.vn/BBC2
+#EXTINF:-1 group-title="🇬🇧 | Сполучене Королівство" tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1200px-BBC_Three_2022.svg.png",BBC Three
+http://0.vylc.name.vn/BBC3
 #EXTINF:-1 group-title="🇬🇧 | Сполучене Королівство" tvg-id="ITV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
 http://0.vylc.name.vn/ITV
 #EXTINF:-1 group-title="🇬🇧 | Сполучене Королівство" tvg-id="Channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
@@ -139,8 +141,6 @@ http://0.vylc.name.vn/FOX
 http://0.vylc.name.vn/CCTV1
 #EXTINF:-1 group-title="🇨🇳 | Китай" tvg-logo="https://i.imgur.com/tYtUmUR.png" tvg-id="CCTV3.cn",CCTV-3
 http://0.vylc.name.vn/CCTV3
-#EXTINF:-1 group-title="🇨🇳 | Китай" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4
-http://0.vylc.name.vn/CCTV4
 #EXTINF:-1 group-title="🇨🇳 | Китай" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
 http://0.vylc.name.vn/CCTV5
 #EXTINF:-1 group-title="🇨🇳 | Китай" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
@@ -162,15 +162,13 @@ http://0.vylc.name.vn/Zhejiang
 #EXTINF:-1 group-title="🇨🇳 | Китай" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports
 http://0.vylc.name.vn/WXTY
 #EXTINF:-1 group-title="🇨🇳 | Китай" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png",Phoenix TV
-http://0.vylc.name.vn/phxcn
-#EXTINF:-1 group-title="🇨🇳 | Китай " tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Info
-http://0.vylc.name.vn/phxinfo
+
 
 #----------------Russia-----------------
-#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/16/79/-channel!gs5.png",OPT1
-http://185.23.80.28:8080/Pervyj/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/63/-channel!41i.png",Russia 1
-http://185.23.80.28:8080/Rossiya1/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1
+http://0.vylc.name.vn/OPT1
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/1920px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Russia 1
+http://0.vylc.name.vn/Russia1
 #EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
 http://185.23.80.28:8080/MATCH!/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/51/-channel!px5.png",NTV
@@ -179,8 +177,8 @@ http://185.23.80.28:8080/NTV/index.m3u8
 http://185.23.80.28:8080/Pyatyj/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/00/00/50/-channel!13n.png",Russia K
 http://185.23.80.28:8080/RossiyaK/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/61/-channel!z0z.png",Russia 24
-http://185.23.80.28:8080/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1024px-Rossiya-24_Logo.svg.png",Russia 24
+http://0.vylc.name.vn/Russia24
 #EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/11/88/80/-channel!o1z.png",Karusel
 http://185.23.80.28:8080/Karusel/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/68/79/13/-channel!y5z.png",OTR
@@ -207,64 +205,6 @@ http://185.23.80.28:8080/MIR/index.m3u8
 http://185.23.80.28:8080/TNT/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/36/01/17/-channel!oj7.png",Muz TV
 http://185.23.80.28:8080/MUZTV/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",Маtch Futbol 2
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Futbol 3
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 | Росія" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Premier
-https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
-
-#----------------Belarus-----------------
-#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/belarus_1.png",Belarus 1
-http://194.158.222.36:6101
-#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/belarus_2.png",Belarus 2
-http://194.158.222.36:6107
-#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/belarus_3.png",Belarus 3
-http://194.158.222.36:6108
-#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/belarus_5.png",Belarus 5
-http://194.158.222.36:6109
-#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/ont.png",ONT
-http://194.158.222.36:6102
-#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/ctv.png",STV
-http://194.158.222.36:6103
-#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/ntv_belarus.png",NTV Belaurs
-http://194.158.222.36:6106
-#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/rtr_belarus.png",RTR Belarus
-http://194.158.222.36:6105
-#EXTINF:-1 group-title="🇧🇾 | Білорусь" tvg-logo="https://www.mtis.by/i/tv_a/mir.png",Mir Belarus
-http://194.158.222.36:6104
-
-#----------------Ukraine-----------------
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pershyi_%282022%29.svg/512px-Pershyi_%282022%29.svg.png",UA:Pershiy
-http://91.146.94.234:10001/play/a04d
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/512px-Suspilne_Kultura_%282022%29.svg.png",UA:Kultura
-http://91.146.94.234:10001/play/a04d
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png",Rada
-http://iptv.prosto.tv:7000/ch21/video.m3u8
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/512px-Inter_TV-Channel_logo.svg.png",Inter
-http://91.146.94.234:10001/play/a04m
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/512px-NTNUA_logo_%282013%29.svg.png",NTN
-http://91.146.94.234:10001/play/a04t
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Mega_ua.jpg?20100605210020",Mega
-http://91.146.94.234:10001/play/a04u
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/800px-1%2B1_logo.svg.png",1+1
-http://91.146.94.234:10001/play/a04i
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/90px-2%2B2_logo_2017.svg.png",2+2
-http://91.146.94.234:10001/play/a04i
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TETUA_logo%282022%29.svg/512px-TETUA_logo%282022%29.svg.png",TET
-http://91.146.94.234:10001/play/a04p
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PLUSPLUS_logo.svg/200px-PLUSPLUS_logo.svg.png",PlusPlus
-http://91.146.94.234:10001/play/a04v
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/STB_logo.svg/52px-STB_logo.svg.png",STB
-http://91.146.94.234:10001/play/a04l
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ICTV_2017_horizontal.svg/512px-ICTV_2017_horizontal.svg.png",ICTV
-http://91.146.94.234:10001/play/a04k
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Novyi_kanal_logo.svg/128px-Novyi_kanal_logo.svg.png",Novyj kanal
-http://91.146.94.234:10001/play/a04o
-#EXTINF:-1 group-title="🇺🇦 | Україна" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/XSport_%282020%29.svg/512px-XSport_%282020%29.svg.png",XSport
-http://91.146.94.234:10001/play/a04p
 
 #----------------Netherlands-----------------
 #EXTINF:-1 group-title="🇳🇱 | Нідерланди" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",NPO1
@@ -303,6 +243,12 @@ http://0.vylc.name.vn/F24Fre
 http://0.vylc.name.vn/Euronews
 #EXTINF:-1 group-title="Новини" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/2560px-TRT_World.svg.png",TRT World
 http://0.vylc.name.vn/TRTWorld
+#EXTINF:-1 group-title="Новини" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/2560px-NHK_World-Japan_TV.svg.png",NHK World
+http://0.vylc.name.vn/NHKWorld
+#EXTINF:-1 group-title="Новини" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4 Europe
+http://0.vylc.name.vn/CCTV4
+#EXTINF:-1 group-title="Новини" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Info
+http://0.vylc.name.vn/phxinfo
 
 #----------------Music-----------------
 #EXTINF:-1 group-title="Музика - Розваги" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",MTV Poland
